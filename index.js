@@ -1,1 +1,2 @@
-var name = "hemant mewada";
+var firstName = "hemant";
+var lastName = "mewada";
